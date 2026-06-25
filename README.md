@@ -1,7 +1,6 @@
 # Add-API (Gorilla / API Zoo)
 
-Tooling for adding APIs to the Gorilla LLM "API Zoo." Consolidates the
-previously separate backend and frontend repositories.
+Tooling for adding APIs to the Gorilla LLM "API Zoo."
 
 ## Structure
 
